@@ -22,4 +22,6 @@ _Memory limit: 12GB
 _Hardware Description: 
 • Intel Core I7-4470 CPU@3,4GHz x 8
 • Java version 1.7.0_18
-• 32GB RAM, 10GB RAM for the reasone
+• 32GB RAM, 12GB RAM are given for each the reasoner
+
+_ The file FullDataset_classification_summary_march2015.xls describs the classification runtime and robustness label for each reasoner and each ontology. The file contains also the feature vectors computed for every ontology in the train and test sets.
